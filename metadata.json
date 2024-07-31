@@ -1,0 +1,23 @@
+{
+  "id_": "A7CF01CC0",
+  "segments_metadata": {
+    "I11105520": {
+      "type": "Tibetan_Segment",
+      "relation": "Source",
+      "lang": "Tibetan",
+      "base": "8a63",
+      "layer": "Tibetan_Segment-51d.json"
+    },
+    "I5495E61D": {
+      "type": "English_Segment",
+      "relation": "Target",
+      "lang": "English",
+      "base": "883b",
+      "layer": "English_Segment-403.json"
+    }
+  },
+  "source_metadata": {
+    "type": "Translation",
+    "source": "nalanda-mt TM2380(github)"
+  }
+}
